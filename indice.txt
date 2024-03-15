@@ -1,3 +1,5 @@
-Cap.1 : Int. a Git
-Cap.2 : Flujo de trabajo basico
-Cap.3 : Repositorios remotos
+Cap. 1: Int
+Cap. 2: Flujo
+Cap. 3: Gestion
+Cap. 4: Rep. Remotos
+
